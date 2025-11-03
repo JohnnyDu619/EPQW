@@ -2,7 +2,7 @@
 Post-quantum Ethereum wallet with Rust FFI &amp; Sepolia testnet
 # EPQW: Ethereum Post-Quantum Wallet
 
-A hybrid quantum-resistant wallet for Ethereum, built for the Ethereum Foundation Cryptography Internship
+A hybrid quantum-resistant wallet for Ethereum
 
 Python 3.10+ | Rust 1.70+ | Ethereum Sepolia | MIT License
 
